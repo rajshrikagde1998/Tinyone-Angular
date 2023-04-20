@@ -1,0 +1,13 @@
+.primary-btn{
+    background-color: $color-primary  !important;
+    border: 1px solid $color-primary !important;
+    transition: all .3 ease-in-out;
+    color: $color-dark !important;
+    border-radius: 5px;
+    &:hover,
+    &:active,
+    &:focus{
+      background-color: $color-dark !important;
+      color: $color-primary !important;
+    }
+}

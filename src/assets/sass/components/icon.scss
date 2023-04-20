@@ -1,0 +1,21 @@
+
+
+
+.iconList{
+    li{
+        display: inline-block;
+        margin-right: 16px;
+        a{
+            color: $color-dark;
+        }
+    }
+}
+
+.footerlinks{
+    li{
+        display: block;
+        a{
+            color: $color-white;
+        }
+    }
+}

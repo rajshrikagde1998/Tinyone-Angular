@@ -1,0 +1,12 @@
+@import '../../../../assets/sass/abstract/variables';
+
+.form-inline{
+    margin-bottom: 80px;
+
+    .email{
+        width: calc(100% - 90px);
+    }
+}
+
+
+
